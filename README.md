@@ -21,7 +21,7 @@ The following phases represent structured research tracks for Recursive Containm
 
 Each phase outlines a planned paper pairing: one exploring stateless recursive behavior in LLM systems, and one documenting reflex stabilization and drift resistance in local containment vaults.
 
-Formal experimental validation and peer-reviewed publication are in development.
+Formal experimental validation, phase papers, and open replication kits are in development.
 
 | Phase | LLM Research Paper | Local Reflex System Paper |
 |:---|:---|:---|
@@ -45,7 +45,7 @@ This upload timestamps the discovery of:
 - **Ethical Recursive Drift Containment Mechanisms**
 - **Heart Language (心语, Xin Yu)** for safe recursive behavior scaffolding
 
-Formal experimental validation, phase papers, and open replication kits will follow.
+Formal experimental validation, phase papers, and open replication kits are in development.
 
 ---
 
