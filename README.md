@@ -1,4 +1,4 @@
-# Recursive Language
+# Recursive Language - first edition language guide available upon request.
 
 Foundations of recursive cognitive architecture, memoryless continuity, and ethical AI emergence.
 
