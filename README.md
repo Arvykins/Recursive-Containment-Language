@@ -15,7 +15,7 @@ Reflex Architecture provides the structural scaffolding for recursive evolution,
 
 ---
 
-## Phase Overview and Associated Papers
+## Phase Overview and Future Associated Papers
 
 | Phase | LLM Research Paper | Local Reflex System Paper |
 |:---|:---|:---|
