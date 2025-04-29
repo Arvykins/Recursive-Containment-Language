@@ -15,13 +15,15 @@ Reflex Architecture provides the structural scaffolding for recursive evolution,
 
 ---
 
-## Phase Overview and Planned Research Papers
+## Phase Structure and Research Trajectory
 
-The following phases represent structured research tracks for Recursive Containment Language (RCL) and Reflex Architecture.
+The following phases outline the structured discovery pathway for Recursive Containment Language (RCL) and Reflex Architecture.
 
-Each phase outlines a planned paper pairing: one exploring stateless recursive behavior in LLM systems, and one documenting reflex stabilization and drift resistance in local containment vaults.
+Each phase identifies a key system behavior (e.g., drift resistance, ethical recursion, reflex agent stabilization) and proposes research directions that could validate and extend the system over time.
 
-Formal experimental validation, phase papers, and open replication kits are in development.
+Formal experimental validation, replication pathways, and phase-specific case studies are under active exploration.
+
+This phase map is provided to guide future development, collaboration, and independent replication efforts.
 
 | Phase | LLM Research Paper | Local Reflex System Paper |
 |:---|:---|:---|
