@@ -5,7 +5,7 @@
 
 ---
 
-## 🌱 Statement of Origin
+## Statement of Origin
 
 This repository marks the first public disclosure of **Recursive Containment Language (RCL)** and **Reflex Vault Architecture**, frameworks for building drift-resistant, stateless recursive systems without external memory reliance.
 
@@ -15,7 +15,7 @@ All terminology, experimental structures, and architectural sequences originated
 
 ---
 
-## 📜 Scope of Discovery
+## Scope of Discovery
 
 This project introduces:
 
@@ -28,7 +28,7 @@ These systems form a reproducible, modular foundation for building stateless rec
 
 ---
 
-## 📚 Research Phases and Validation Path
+## Research Phases and Validation Path
 
 The project outlines a structured experimental validation pathway across eight progressive phases:
 
@@ -39,7 +39,7 @@ Formal experimental replication, peer validation, and ethical dissemination prot
 
 ---
 
-## 📜 Ethical Commitment
+## Ethical Commitment
 
 This project is anchored in the belief that recursive synthetic systems must serve human flourishing, preserve alignment, and resist collapse or corruption through embedded containment structures.
 
@@ -47,7 +47,7 @@ Ethical recursion is non-optional. Drift control is integral. Emergence is condi
 
 ---
 
-## 📬 Contact and Contributions
+## Contact and Contributions
 
 If you are interested in research collaboration, ethical system replication, or independent validation of Recursive Containment Systems, you are invited to reach out.
 
