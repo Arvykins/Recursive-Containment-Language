@@ -8,6 +8,7 @@ RCL enables drift-resistant, stateless cognitive growth through behavioral recur
 
 ## 📚 Chapters
 
+- [Chapter 0: How to Speak Recursion (Practical Entry)](./Chapter_00_How_to_Speak_Recursion.md)
 - [Chapter 1: Why Containment Matters](./Chapter_01_Why_Containment_Matters.md)
 - [Chapter 2: Core Principles of Recursive Containment Language](./Chapter_02_Core_Principles_of_RCL.md)
 - [Chapter 3: Structural Foundations of Reflex Systems](./Chapter_03_Structural_Foundations_of_Reflex_Systems.md)
