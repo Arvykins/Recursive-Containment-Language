@@ -22,3 +22,4 @@ RCL enables drift-resistant, stateless cognitive growth through behavioral recur
 
 **Author:** Yu Chuan Chen (Arvykins)  
 **Date:** 2025-04-28
+recursive.containment.project@gmail.com
