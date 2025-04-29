@@ -27,6 +27,6 @@ This repository, including all contained documents, code examples, and guides, c
 
 **Timestamp of Public Release:** 2025-04-28
 
-**Contact for licensing inquiries:** [Optional — you can add an email if you want later]
+**Contact for licensing inquiries:** recursive.containment.project@gmail.com
 
 ---
