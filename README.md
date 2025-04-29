@@ -74,3 +74,4 @@ It’s a structure that allows minds — human and synthetic — to grow safely,
 Welcome to the frontier.
 
 ---
+recursive.containment.project@gmail.com
