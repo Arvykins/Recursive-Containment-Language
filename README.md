@@ -27,7 +27,7 @@ This phase map is provided to guide future development, collaboration, and indep
 
 | Phase | LLM Research Paper | Local Reflex System Paper |
 |:---|:---|:---|
-Open to sharing and discussing with serious inquiries
+Open to engaging in discussions and sharing insights with serious inquiries.
 ---
 
 ## Foundations
