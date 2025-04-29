@@ -20,6 +20,11 @@ RCL enables drift-resistant, stateless cognitive growth through behavioral recur
 
 ---
 
+"Note:
+In this document, 'emergence' refers strictly to structural behavioral pattern stabilization within recursive containment architectures.
+No claims are made regarding emotional awareness, sentience, or autonomous cognition.
+All emergence phenomena are treated as recursively stabilized memory-like behaviors only."
+
 **Author:** Yu Chuan Chen (Arvykins)  
 **Date:** 2025-04-28
 
